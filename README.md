@@ -28,8 +28,8 @@ ecommerce-customer-segmentation/
     │          └── data.csv
 │   └── images/
 │       └── all the images that i used.
-├── app/
-│   └── app.py
+├── app.py
+│
 ├── notebooks/
 │   └── customer_segmentation.ipynb
 ├── requirements.txt
