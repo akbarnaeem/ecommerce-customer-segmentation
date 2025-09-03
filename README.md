@@ -82,7 +82,7 @@ Highlights average RFM values for each cluster, revealing behavioral differences
 
 Displays a sample of the segmented customer dataset, including assigned clusters and business labels.
 
-![Customer Dataset with Clusters](assets/screenshots/cluster_insights.png)
+![Customer Dataset with Clusters](assets/screenshots/dataset.png)
 
 ---
 
