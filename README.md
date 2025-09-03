@@ -21,13 +21,15 @@ ecommerce-customer-segmentation/
 │   │   ├── cluster_insights.png
 │   │   ├── cluster_feature_averages.png
 │   │
-    ├── data/
-    │     ├── processed/
-    │     │      └── rfm_clusters.csv
-    │     ├── raw
-    │          └── data.csv
+│   ├── data/
+│   │     ├── processed/
+│   │     │      └── rfm_clusters.csv
+│   │     ├── raw
+│   │          └── data.csv
 │   └── images/
-│       └── all the images that i used.
+│       ├── logo.png
+│       ├── wb1.png
+│       └── workflow.png
 ├── app.py
 │
 ├── notebooks/
