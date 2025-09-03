@@ -40,22 +40,6 @@ ecommerce-customer-segmentation/
 
 ## 🖼️ Screenshots
 
-### Customer Segmentation Dashboard
-
-Interactive dashboard summarizing cluster selection, key metrics, and segmentation of all customers.
-
-![Customer Segmentation Dashboard](assets/screenshots/website_overview.png)
-
----
-
-### Workflow
-
-Visual representation of the end-to-end customer segmentation pipeline, from data collection to model evaluation.
-
-![Workflow](assets/images/workflow.png)
-
----
-
 ### Clustering Evaluation
 
 Shows how the optimal number of clusters is determined using the Elbow and Silhouette methods.
@@ -80,7 +64,7 @@ Highlights average RFM values for each cluster, revealing behavioral differences
 
 ---
 
-### Customer Dataset (with Clusters)
+### Customer Dataset
 
 Displays a sample of the segmented customer dataset, including assigned clusters and business labels.
 
@@ -92,25 +76,6 @@ Displays a sample of the segmented customer dataset, including assigned clusters
 Displays a heatmap visualizing the feature distribution across clusters, helping identify patterns and similarities in customer behavior.
 
 ![Cluster Heatmap](assets/screenshots/cluster_heatmap.png)
-
----
-
-## 📊 Key Features
-
-- **RFM Feature Engineering:** Extracts Recency, Frequency, and Monetary features from raw transaction data.
-- **Clustering Algorithms:** Applies K-Means clustering and evaluates cluster quality with Elbow and Silhouette methods.
-- **Insightful Visualizations:** Provides easy-to-understand charts and tables for business users.
-- **Interactive Dashboard:** Filter customers by cluster and view key metrics dynamically.
-
----
-
-## 🛠️ How It Works
-
-1. **Data Preparation:** Raw transaction data is preprocessed and transformed into RFM metrics.
-2. **Clustering:** K-Means algorithm segments customers into meaningful groups.
-3. **Evaluation:** Optimal cluster count is found using Elbow and Silhouette scores.
-4. **Labeling:** Business-friendly segment labels (e.g., VIP, Regular, Dormant) are assigned to clusters.
-5. **Visualization:** Key charts and tables are generated for analysis and strategy.
 
 ---
 
